@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <rect width="64" height="64" rx="12" fill="#ffffff"/>
+  
+  <!-- Interlinked Rectangles (Chain) -->
+  <rect x="14" y="24" width="16" height="8" rx="4" fill="#4f46e5"/>
+  <rect x="34" y="32" width="16" height="8" rx="4" fill="#10b981"/>
+  <rect x="26" y="28" width="12" height="8" rx="4" fill="#111827"/>
+  
+  <!-- Modern Analytics Bars -->
+  <rect x="14" y="42" width="5" height="8" rx="2.5" fill="#4f46e5"/>
+  <rect x="24" y="38" width="5" height="12" rx="2.5" fill="#10b981"/>
+  <rect x="34" y="34" width="5" height="16" rx="2.5" fill="#4f46e5"/>
+  <rect x="44" y="30" width="5" height="20" rx="2.5" fill="#10b981"/>
+  
+  <!-- Smooth Line Graph -->
+  <path d="M16 46 Q24 40 26 38 Q34 34 36 34 Q44 30 46 30" stroke="#111827" stroke-width="2" fill="none" stroke-linecap="round"/>
+  
+  <!-- Data Points -->
+  <circle cx="16" cy="46" r="2" fill="#111827"/>
+  <circle cx="26" cy="38" r="2" fill="#111827"/>
+  <circle cx="36" cy="34" r="2" fill="#111827"/>
+  <circle cx="46" cy="30" r="2" fill="#111827"/>
+</svg>
